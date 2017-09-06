@@ -8,7 +8,7 @@
 Teste para desenvolvedores candidatos à vaga de QA na Catho
 
 # Como começar 
-Faça um fork e clone este projeto, crie uma branch (pode ser com seu nome mesmo).
+Faça um fork, clone este projeto e crie uma branch com o seu nome.
 
 ## Entendendo o teste
 Queremos que você faça a automação dos testes de um formulário, a idéia é avaliar as suas habilidades como QA, então pense bem nos cenários que irá testar e não se esqueça que a qualidade do código e da documentação também contam bastante.
