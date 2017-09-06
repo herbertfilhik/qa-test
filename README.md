@@ -16,7 +16,7 @@ Queremos que você faça a automação dos testes de um formulário, a idéia é
 ## O teste!
 Automatize o formulário abaixo:
 
- <a href="https://www.w3schools.com/php/demo_form_validation_complete.php" target="blank">Formulário</a>
+ <a href="https://www.w3schools.com/php/demo_form_validation_complete.php">Formulário</a>
  
  O teste pode ser feito em qualquer linguagem de programação e com a tecnologia de sua escolha, exceto soluções pagas e/ou record and play.
  Você pode usar por exemplo: cucumber, behat, jbehave, selenium-webdrive (puro), entre outras.
