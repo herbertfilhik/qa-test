@@ -1,4 +1,12 @@
 
+#In this feature there are 03 scenarios about insert new users
+#Basically we try in this work validate the 03 situation bellow
+# 01 - insert a new male user successfuly
+# 02 - insert a new female user successfuly
+# 03 - try insert a new user with blank or null data in the fields
+
+#----
+
 #Include Male Input Form
 Given(/^User in Form Website for input Male Register$/) do
 end
