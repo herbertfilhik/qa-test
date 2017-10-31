@@ -7,5 +7,4 @@ gem 'selenium-webdriver'
 gem 'rake'
 gem 'pry'
 gem 'page-object'
-gem "chromedriver-helper"
-gem "escape utils"
+gem 'chromedriver-helper'
